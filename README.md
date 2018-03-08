@@ -32,7 +32,7 @@ Build script currently generates only solution _(*.sln)_ files for Microsoft Vis
 **Following these steps and building all binaries in their _Release_ versions took me ~2 minutes on my laptop.**
 
 ### Download prebuilt binaries
-Try to look for them [here](https://github.com/rindeal/SQLite3-Encryption/releases)
+Try to look for them [here](https://github.com/sndnvaps/SQLite3-Encryption/releases)
 
 ### Update to the latest version of SQLite
 Because developers of the wxSQLite extension needs to incorporate changes with every new version of SQLite, there is a time lag between a new version of SQLite and wxSQLite. If you want to update to the latest version of wxSQLite, you can do so in two ways:
